@@ -40,22 +40,6 @@
 
 ---
 
-## 📊 GitHub stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=satishgautam1&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=satishgautam1&theme=radical" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satishgautam1&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
 ## 🌐 Connect with me
 
 <p>
@@ -66,13 +50,5 @@
 
 ---
 
-## 🎧 LoFi channel
-🎶 Checkout my Lofi song: *Late Night Thoughts*  
-👉 Add your YouTube link here
-
----
-
 ## ✨ Fun quote
 > "Code, Create, Learn — Repeat!"
-
----
