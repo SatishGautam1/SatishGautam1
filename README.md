@@ -21,7 +21,7 @@
 - 🤝 Open to collaborate on **Open-Source Projects**
 - 📫 Reach me at **gautamsatish720@gmail.com**
 - 🌍 Portfolio:  
-  ✅ **https://satish-gautam-protfolio.netlify.app**
+  ✅ **nightking.pythonanywhere.com**
 
 ---
 
